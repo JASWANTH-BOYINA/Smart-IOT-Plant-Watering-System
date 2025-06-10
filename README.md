@@ -62,7 +62,7 @@ ___
 ## Getting Started
 1. Clone the Repository:
 2. Upload the Code:
-   - Code is available at 
+   - Code is available at https://github.com/JASWANTH-BOYINA/Smart-IOT-Plant-Watering-System/blob/main/code
 
 
 
