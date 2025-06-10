@@ -62,7 +62,10 @@ ___
 ## Getting Started
 1. Clone the Repository:
 2. Upload the Code:
-   - Code is available at https://github.com/JASWANTH-BOYINA/Smart-IOT-Plant-Watering-System/blob/main/code
+   - Code is available at https:  //github.com/JASWANTH-BOYINA/Smart-IOT-Plant-Watering-System/blob/main/code
+   - ESP8266 Board Package: http:  //arduino.esp8266.com/stable/package_esp8266com_index.json
+   - Ensure necessary libraries should be installed in arduino IDE
+   - BLYNK:   https://github.com/blynkkk/blynk-library
 
 
 
