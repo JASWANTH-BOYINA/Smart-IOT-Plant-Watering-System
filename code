@@ -13,9 +13,9 @@ int yled=D0;
 
 
 
-char auth[] = "cu6H86leP_ADSP91OtSRafLNepNzv6aG";//Enter your Auth token
-char ssid[] = "realme 9 Pro 5G";//Enter your WIFI name
-char pass[] = "1234567890";//Enter your WIFI password
+char auth[] = "xxxxx";//Enter your Auth token
+char ssid[] = "xxxxx";//Enter your WIFI name
+char pass[] = "xxxx";//Enter your WIFI password
 
 BlynkTimer timer;
 bool Relay = 0;
